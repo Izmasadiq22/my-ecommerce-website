@@ -2,8 +2,7 @@
 import { useEffect, useState } from "react";
 // import { useRouter } from "next/navigation";
 import ProductCard from "./Productcard";
-import { Product } from "@/pages/types";
-
+import { Product } from "@/types/types";
 
 
 const Menu = () => {
